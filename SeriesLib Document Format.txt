@@ -1,0 +1,11 @@
+SeriesLib Document Format
+
+name : string
+
+poster : string
+
+seasons : array
+
+		0 : map
+			episodes : array
+						0 : string
